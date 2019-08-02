@@ -18,7 +18,7 @@ To install the `bosh` binary directly:
 
     ```shell
     chmod +x ./bosh
-    sudo mv ./bosh /usr/local/bin/bosh
+    sudo mv ./bosh /usr/bin/bosh
     ```
 
 1. You should now be able to use `bosh`. Verify by querying the CLI for its version:
